@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kỹ thuật phần mềm</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="amplitude_mv">Amplitude (mV)</string>
+    <string name="domainSeries">Time (ms)</string>
+    <string name="frequencydomain">Frequency (Hz)</string>
+</resources>

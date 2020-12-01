@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/tab_time"
+        android:title="Time"
+        android:icon="@drawable/ic_baseline_timer_24" />
+    <item
+        android:id="@+id/tab_freq"
+        android:title="Freq"
+        android:icon="@drawable/ic_baseline_loupe_24"/>
+
+    <item
+        android:id="@+id/tab_info"
+        android:title="Info"
+        android:icon="@drawable/ic_baseline_info_24"/>
+</menu>
